@@ -1,14 +1,29 @@
+name: mohamed soueid
+favicon: null
 layout_spectrum: 0.25723535288125277
 typography_spectrum: 0.9154678289778531
+title: mohamed soueid
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#FFFFFF'
+    - '#191D20'
+    - '#F35345'
+    - '#635433'
+    - '#A5835D'
   brandStrength: 0.9283094257116318
   lightness: 0.48192048887722194
   saturation: 0.2429793772753328
   rhythmicContrast: 0.8041327877435833
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-name: mohamed soueid
+purpose: []
